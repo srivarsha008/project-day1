@@ -1,0 +1,58 @@
+.login-container {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.3);
+  border: 1px solid #ccc;
+  border-radius: 30px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-top: 200px;
+
+
+}
+
+
+.input-group {
+  margin-bottom: 20px;
+}
+
+.input-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.input-group input {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+
+.error-message {
+  color: rgb(238, 39, 39);
+  margin-top:-25px;
+
+}
+.fp{
+  text-decoration: none;
+  font-weight: bold;
+}
+.si{
+  text-decoration: none;
+  color:#3140eced;
+}
+.log1{
+  width: 70px;
+  font-size: 15px;
+  height: 30px;
+  font-weight: bold;
+}
+.divi{
+  margin-top: 2px;
+}
+.divq{
+  margin-top: -5px;
+  margin-left: 305px;
+  font-size: 10px;
+  font-weight: bold;
+}

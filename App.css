@@ -1,0 +1,17 @@
+body {
+  font-family: 'Arial', sans-serif;
+  font-size: 14px;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+  background-image: url(login.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+@media (max-width: 768px) {
+  body {
+    font-size: 12px; 
+  }
+}

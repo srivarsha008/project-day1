@@ -1,0 +1,54 @@
+.signup-container {
+  max-width: 400px;
+  margin: auto;
+  padding: 30px;
+  border: 1px solid #ccc;
+  border-radius: 25px;
+  box-shadow: 0 9 10px rgba(0, 0, 0, 0.1);
+  margin-top: 50px;
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+.input-group {
+  margin-bottom: 0px;
+  
+}
+
+.input-group label {
+  display: block;
+  margin-bottom: 5px;
+  
+  
+}
+
+.input-group input {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  font-size: 13px;
+}
+
+.error-message {
+  color: red;
+  margin-top: -6px;
+}
+.bt1{
+  width: 120px;
+  font-size: 13px;
+  height: 30px;
+  font-weight: bold;
+  }
+  .acc{
+    margin-bottom:10px;
+  }
+ .check{
+  margin-top: -10px;
+ }
+.link{
+  text-decoration: none;
+}
+.butt{
+  text-decoration: none;
+  color:#3140eced;
+}
