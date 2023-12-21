@@ -1,0 +1,20 @@
+body {
+  font-family: 'Arial', sans-serif;
+  font-size: 14px;
+  background-color: #f0f0f0;
+}
+
+body.signup-page,body.login-page {
+  background-image: url("login.jpg");
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+@media (max-width: 169px) {
+  body {
+    font-size: 12px; 
+  }
+}
