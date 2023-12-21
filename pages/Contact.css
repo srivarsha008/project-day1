@@ -1,0 +1,31 @@
+form {
+    display: flex;
+    flex-direction: column;
+    padding: 2% 3%;
+    margin: 3% 25%;
+    border: 2px solid rgb(28, 173, 235);
+    border-radius: 10px;
+    text-align: left;
+    font-size: 15px;
+    background-color: aliceblue;
+    }
+input {
+    margin-top: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    }
+ 
+    .submit {
+    margin-top: 10px;
+
+    }
+    .submit:hover {
+    cursor: pointer;
+    background: Ogreen;
+    font-weight: bold;
+    }
+    textarea {
+    font-size: 15px;
+    }
